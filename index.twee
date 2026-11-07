@@ -1,0 +1,187 @@
+:: StoryTitle
+Aventura matemática 
+
+
+:: StoryData
+{
+  "ifid": "AA1CEBF9-D6F1-4BE1-90A3-22740023B200",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Aventura matemática ",
+  "zoom": 1
+}
+
+
+:: \ Correcto {"position":"450,100","size":"100,100"}
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToerXcdHfZ8uyYyqt9PH6mxld6e--t6KETIu4JeQ90kg&s=10;">
+Correcto!
+
+Ahora sumemos 
+
+Vamos al reto 2.
+
+[[Suma ->Reto 2]]
+
+
+:: \ Correcto. {"position":"250,500","size":"100,100"}
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyxUYl8q6SpqkD6QdVLSxG-XeC0SEJpUtojETrsN-5Bw&s=10;">
+
+Perfecto!
+
+continuemos
+
+[[Reto 4 ->Reto 4]]
+
+
+:: \ Correcto.. {"position":"450,325","size":"100,100"}
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToerXcdHfZ8uyYyqt9PH6mxld6e--t6KETIu4JeQ90kg&s=10;">
+
+(bg:lime)[Correcto!]
+
+Ahora sumemos 
+
+Vamos al reto 2.
+
+[[Secuencia ->Reto 3]]
+
+
+:: \ Correcto... {"position":"450,775","size":"100,100"}
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyxUYl8q6SpqkD6QdVLSxG-XeC0SEJpUtojETrsN-5Bw&s=10;">
+
+
+MUY BIEN TE ESTAS CONVIRTIENDO EN UN EXPERTO.
+
+
+:: \ Incorrecto {"position":"300,225","size":"100,100"}
+🤔 ¡Casi!
+
+Mira nuevamente las frutas:
+
+🍎 🍎 🍎 🍎 🍎
+
+Cuenta despacio:
+
+1 – 2 – 3 – 4 – 5
+
+Hay 5 manzanas.
+
+[Intentar nuevamente] 
+[[Conteo ->Reto 1]]
+
+
+:: \ Incorrecto. {"position":"125,500","size":"100,100"}
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmAH6Y860p3na6_6QvXBZbbYsxT2PYlOgWoHUdyB0ctg&s=10;">
+
+Es facil, piensa con calma 
+
+[Intentar nuevamente] 
+[[Conteo ->Reto 3]]
+
+
+:: \ Incorrecto.. {"position":"550,500","size":"100,100"}
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmAH6Y860p3na6_6QvXBZbbYsxT2PYlOgWoHUdyB0ctg&s=10;">
+
+Calma, hazlo más despacio 
+Vamos de nuevo.
+[Intentar nuevamente] 
+[[Conteo ->Reto 2]]
+
+
+:: \ Incorrecto... {"position":"325,775","size":"100,100"}
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmAH6Y860p3na6_6QvXBZbbYsxT2PYlOgWoHUdyB0ctg&s=10;">
+
+Ten cuidado, estamos restando 
+
+[Intentar nuevamente] 
+[[Conteo ->Reto 4]]
+
+
+:: Aventura matemática\  {"position":"150,50","size":"100,100"}
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4LZLyMMANMSSLWg5mhvJe8BV4gcwtVRpR7LV0snEefQ&s=10;">
+¡Bienvenido a la aventura matematica!
+
+Eres un explorador matematico que debe encontrar un tesoro, para esto debes cumplir con una serie de preguntas.
+
+¿preparado?
+ 
+[[Conteo ->Reto 1]]
+
+
+
+:: Reto 1 {"position":"300,50","size":"100,100"}
+conteo 
+
+Las frutas de Tiko
+
+Tiko encontró una canasta con frutas.
+
+🍎 🍎 🍎 🍎 🍎
+
+¿Cuántas manzanas hay?
+
+Elige una respuesta:
+[[A. 3-> Incorrecto]]
+[[B. 6-> Incorrecto]]
+[[C.5-> Correcto]]
+
+
+
+:: Reto 2 {"position":"575,225","size":"100,100"}
+➕ Reto 2: El puente mágico
+
+Tiko necesita cruzar un puente.
+
+Para construirlo tiene:
+
+🌳🌳🌳
+
+y encuentra:
+ 
+🌳🌳🌳
+
+¿Cuántos arboles tiene ahora?
+
+Resuelve:
+
+3 + 3 = ?
+
+[[A. 2-> Incorrecto]]
+[[B. 4-> Incorrecto..]]
+[[C.6-> Correcto..]]
+
+
+
+:: Reto 3 {"position":"100,350","size":"100,100"}
+🧩 Reto 3: Descubre el patrón
+
+Observa:
+
+2 – 4 – 6 – 8 – ❓
+
+¿Qué número sigue?
+
+Elige una respuesta:
+[[A. 9-> Incorrecto.]]
+[[B. 10-> Correcto.]]
+[[C.12-> Incorrecto.]]
+
+
+:: Reto 4 {"position":"325,650","size":"100,100"}
+# ➖ Reto 4: Las estrellas
+
+Tiko tenía:
+
+⭐⭐⭐⭐⭐⭐
+
+Pero perdió:
+
+⭐⭐
+
+¿Cuántas estrellas le quedan?
+
+**6 − 2 = ?**
+
+Elige una respuesta:
+[[A. 9-> Incorrecto...]]
+[[B. 4-> Correcto...]]
+[[C.12-> Incorrecto...]]
